@@ -1,2 +1,2 @@
 # Algoritmos y Estructura de Datos II
-ejercicios de diferentes estructuras de datos
+ejercicios utilizando disitintos tipos de estructura de datos
